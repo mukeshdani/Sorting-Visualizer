@@ -3,6 +3,7 @@ function randomNumber(min, max) {
     return Math.floor(Math.random() * (max - min + 1) + min);
   }
   
+  
   // Navigation Bar Dropdown Swapping
   let A = document.getElementsByClassName("dropdown-item");
   let curAlgo = "Bubble Sort";
@@ -347,5 +348,6 @@ function randomNumber(min, max) {
     quickSort(j + 1, end);
   }
   
+
   generateNewArray();
   
