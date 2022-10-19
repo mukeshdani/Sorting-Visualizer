@@ -2,7 +2,7 @@
 <h1 align="center">Sorting-Visualizer 💥</h1>
 
 **[Sorting-Visualizer 👉](https://github.com/mukeshdani/Sorting-Visualizer)** *Sorting Visualizer is Web App that helps visualize various sorting algorithms (Bubble Sort ,Insertion Sort ,Selection Sort ,Heap Sort ,Merge Sort ,Quick Sort)*
-
+**[Live Link](https://s-visualizer.netlify.app/#)**
 <div align="center">
 
 <a href="https://github.com/mukeshdani/Sorting-Visualizer"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mukeshdani/Sorting-Visualizer?color=2b9348"></a>
