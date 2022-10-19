@@ -1,7 +1,8 @@
 
 <h1 align="center">Sorting-Visualizer 💥</h1>
 
-**[Sorting-Visualizer 👉](https://github.com/mukeshdani/Sorting-Visualizer)** 
+**[Sorting-Visualizer 👉](https://github.com/mukeshdani/Sorting-Visualizer)** *About
+Sorting Visualizer is Web App that helps visualize various sorting algorithms (Bubble Sort ,Insertion Sort ,Selection Sort ,Heap Sort ,Merge Sort ,Quick Sort)*
 
 <div align="center">
 
